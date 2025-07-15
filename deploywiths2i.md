@@ -17,7 +17,7 @@
 ## Openshift Project
 - open browser to URL from Register Page
 
-  - confirm URL from instructor
+  - [Workshop Portal](https://catalog.partner.demo.redhat.com/workshop/nx2m2)
 
 - login to openshift with your username/password
   
