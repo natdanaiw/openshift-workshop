@@ -81,6 +81,7 @@
   - Minimum Pods: `1`
   - Maximum Pods: `3`
   - CPU Utilization: `10%`
+  - Memory Utilization: `80%`
   
   ![](images/scale_13.png) 
 
