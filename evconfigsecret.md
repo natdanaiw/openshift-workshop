@@ -19,7 +19,7 @@
 You can set environment variables for containers running in a pod. Additionally, Kubernetes automatically exposes certain runtime information via environment variables.
 - Review Code, Check Environment Variable
 
-  - https://raw.githubusercontent.com/chatapazar/openshift-workshop/main/src/main/resources/application.properties
+  - https://raw.githubusercontent.com/natdanaiw/openshift-workshop/main/src/main/resources/application.properties
   
   - In this properties, app.backend is url of backend service, we use this property for Rest Client 
     ```yaml
