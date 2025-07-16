@@ -5,7 +5,7 @@
   - [Prerequisite](#prerequisite)
   - [Review Application Code Logging](#review-application-code-logging)
   - [Monitor Container Log with Developer Console](#monitor-container-log-with-developer-console)
-  - [Monitor Container Log with Loki Stack in Openshift](#monitor-container-log-with-loki-stack-in-openshift)
+  <!--- [Monitor Container Log with Loki Stack in Openshift](#monitor-container-log-with-loki-stack-in-openshift)-->
   - [Next Step](#next-step)
 
 <!-- /TOC -->
@@ -82,7 +82,7 @@
 
   ![](images/log_4.png)
 
-## Monitor Container Log with Loki Stack in Openshift
+<!--## Monitor Container Log with Loki Stack in Openshift
 - Aggregated Logs to view Logs from Loki
 
   ![](images/log_5.png)
@@ -95,7 +95,7 @@
 - For monitor more than 1 pod, developer can access Observe (on left menu) and select Logs Tab to search log across containers, pods and Namespaces
 
   ![](images/log_8.png)
-
+-->
 ## Next Step
 - [Basic Container Storage](storage.md)
 
